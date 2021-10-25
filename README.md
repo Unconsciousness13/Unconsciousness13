@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Plamen Iliev</h1>
 
 <p align="center">
-     <a href="http://www.pako.es" target="new">
+     <a href="http://www.pako.es" target="_new">
      <img src="https://img.icons8.com/pastel-glyph/64/000000/website--v1.png"/>
      </a>
      <a href="https://www.facebook.com/pako.iliev" target="_blank">
