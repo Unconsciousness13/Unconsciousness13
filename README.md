@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Plamen Iliev</h1>
+<p align="center"><h1>Hi 👋, I'm Plamen Iliev</h1>
 <h3>I`m currently learning --> Next step -->  Python Full Stack Web Developer</h3>
+</p>
 
 <p align="center">
      <a href="http://www.pako.es" target="_new">
