@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi 👋, I'm Plamen Iliev</h1>
-<h3>I`m currently learning --> Next step -->  Python Full Stack Web Developer</h3>
+<h3>I`m currently student --> Next step -->  Python Full Stack Web Developer</h3>
 </p>
 
 <p align="center">
