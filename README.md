@@ -4,10 +4,10 @@
   <a href="https://es.linkedin.com/in/plamen-iliev-b35646201" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="plameniliev" width="48px" height="48px" />
   </a>
-  <a href="https://fb.com/cerberodev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cerberodev" width="48px" height="48px" />
+  <a href="https://www.facebook.com/pako.iliev" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pako.iliev" width="48px" height="48px" />
   </a>
-  <a href="https://instagram.com/cerberodev" target="_blank">
+  <a href="https://instagram.com/pakoiliev" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cerberodev" width="48px" height="48px" />
   </a>
   
