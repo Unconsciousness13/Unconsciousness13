@@ -21,7 +21,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Unconsciousness13?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -43,7 +43,9 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-
+          
+          -000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
@@ -53,7 +55,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unconsciousness13&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
@@ -61,7 +63,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.
+  
+  usercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
