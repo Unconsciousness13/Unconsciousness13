@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi 👋, I'm Plamen Iliev</h1>
-<h3>Python Full Stack Junior Web Developer</h3>
+
 </p>
 
 <p align="center">
